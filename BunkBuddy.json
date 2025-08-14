@@ -1,0 +1,36 @@
+{
+    "privacy_policy": {
+        "last_updated": "25 January, 2025",
+        "sections": [
+            {
+                "title": "Information We Do Not Collect",
+                "content": "BunkBuddy is designed with privacy in mind. Since the app does not require any login or account creation, we do not collect or store any personal information, such as names, email addresses, phone numbers, location data, or any other personally identifiable information (PII)."
+            },
+            {
+                "title": "Offline Functionality and Data Storage",
+                "content": "BunkBuddy operates entirely offline, meaning all data generated and stored within the app remains on your device. The app uses external storage access permissions to create and manage backups of your attendance data. These backups are stored locally on your device and are not transmitted to any external servers or third parties."
+            },
+            {
+                "title": "Internet Dependency for Ads",
+                "content": "While BunkBuddy is an offline app, it requires an internet connection to display Google AdMob advertisements. AdMob may collect certain information to serve personalized ads, including device information, advertising identifiers, and IP address. This data is collected by Google AdMob and is subject to Google's Privacy Policy. BunkBuddy does not have access to or control over this data."
+            },
+            {
+                "title": "Ad-Free Subscription",
+                "content": "BunkBuddy offers a one-time subscription to remove all advertisements. Once purchased, the app will no longer require an internet connection to function, and no ads will be displayed. This subscription is processed through the Google Play Store, and we do not collect or store any payment information."
+            },
+            {
+                "title": "Data Security",
+                "content": "Since BunkBuddy does not collect or transmit any personal data, your information remains secure on your device. However, we recommend that you take precautions to protect your device and external storage from unauthorized access."
+            },
+            {
+                "title": "Third-Party Services",
+                "content": "BunkBuddy uses Google AdMob for advertising purposes. AdMob is a third-party service provider, and their data collection practices are governed by their own privacy policies. BunkBuddy does not share any user data with third parties beyond what is necessary for ad delivery."
+            },
+            {
+                "title": "Changes to This Privacy Policy",
+                "content": "We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. Any updates will be posted within the app, and the 'Last Updated' date will be revised accordingly. We encourage you to review this policy periodically."
+            }
+        ],
+        "disclaimer": "By using BunkBuddy, you acknowledge that you have read and understood this Privacy Policy. Thank you for trusting us with your attendance management needs!"
+    }
+}
