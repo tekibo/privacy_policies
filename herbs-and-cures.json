@@ -1,0 +1,44 @@
+{
+    "privacy_policy": {
+        "last_updated": "1 September 2026",
+        "sections": [
+            {
+                "title": "Information We Do Not Collect",
+                "content": "Herbs & Cures does not require login or account creation. We do not collect or store any personal information, such as names, email addresses, phone numbers, location data, or any other personally identifiable information (PII). We do not sell or share personal information, because we never collect it in the first place."
+            },
+            {
+                "title": "Offline Functionality and Data Storage",
+                "content": "All reference content ships inside the app bundle. The only data the app creates is stored locally on your device: the cures you save are kept in an on-device database, and your preferences (such as your ad-free status) are kept in local storage. This data never leaves your device, and uninstalling the app deletes it."
+            },
+            {
+                "title": "Internet Dependency for Ads",
+                "content": "While the app's content is offline, it requires an internet connection to display Google AdMob advertisements. To deliver and measure ads, Google may collect device information, advertising identifiers, IP address, and approximate location derived from IP. This data is collected and processed by Google, subject to Google's Privacy Policy. Depending on your region, a consent message is shown before ads are served, letting you choose between personalised and non-personalised ads; where the option appears, you can review your choices anytime via Settings → Privacy options in the app. Users with an active ad-free status are not shown ads."
+            },
+            {
+                "title": "Ad-Free Purchase",
+                "content": "The optional one-time Pro purchase removes all advertisements forever. On mobile, the purchase is processed entirely by the Google Play Store (or the Apple App Store) and we never receive your payment details. We use RevenueCat, a purchase receipt-validation service, to verify and sync purchase status across launches and reinstalls. RevenueCat assigns your device an anonymous identifier to associate the purchase with your device; its data practices are described in RevenueCat's Privacy Policy. Web-based purchases of Pro, where offered, are processed by our payment provider acting as the merchant of record; only an anonymous purchase identifier is shared with RevenueCat to unlock Pro on your device."
+            },
+            {
+                "title": "Third-Party Services",
+                "content": "The app uses Google AdMob for advertising and RevenueCat for purchase receipt validation, as described above. Additionally, the app can fetch a short description of a herb from the Wikipedia API when you explicitly toggle it on a herb's detail page — these requests carry no personal data. Herb and condition images are loaded from Wikimedia Commons and are shown with attribution inside the app as required by their licenses. No other third-party analytics or tracking services are integrated."
+            },
+            {
+                "title": "Children",
+                "content": "The app is a general-audience reference tool and is not directed at children under 13. We do not knowingly collect personal information from anyone, including children."
+            },
+            {
+                "title": "Data Security",
+                "content": "Since we do not collect or transmit any personal data, there is nothing of yours to breach on our side. Your saved cures and preferences remain on your device; we recommend standard precautions to keep your device secure."
+            },
+            {
+                "title": "Your Rights and Choices",
+                "content": "Ads personalisation: use the consent form options in the app (Settings → Privacy options, where available) or your device's advertising ID settings to reset or opt out. Local data: uninstalling the app deletes all on-device data. Purchases: managed through the app store that processed them; web purchases can be restored by contacting us."
+            },
+            {
+                "title": "Changes to This Privacy Policy",
+                "content": "We may update this Privacy Policy from time to time to reflect changes in the app or its services. Updates will be posted in this repository with a revised Last Updated date."
+            }
+        ],
+        "disclaimer": "By using Herbs & Cures, you acknowledge that you have read and understood this Privacy Policy. The content in the app is for general information only and is not a substitute for professional medical advice, diagnosis, or treatment — always consult a qualified practitioner before trying any remedy. Questions about this policy: tekibohelp@gmail.com"
+    }
+}
