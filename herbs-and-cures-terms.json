@@ -1,0 +1,36 @@
+{
+    "terms_of_service": {
+        "last_updated": "1 September 2026",
+        "sections": [
+            {
+                "title": "The Service",
+                "content": "Herbs & Cures is an offline-first reference app for medicinal herbs and traditional remedies, published by TEKIBO. The app's content is provided for general information only — it is not medical advice, and we make no claim about the efficacy of any remedy. Always consult a qualified practitioner before trying any remedy, especially if you are pregnant, nursing, taking medication, or treating a child."
+            },
+            {
+                "title": "License to Use",
+                "content": "We grant you a personal, non-exclusive, non-transferable license to use the app on devices you own or control, for as long as you comply with these terms. You may not copy, resell, or redistribute the app or its content beyond what the license allows."
+            },
+            {
+                "title": "Pro Purchase",
+                "content": "Pro is a one-time purchase that removes all advertisements from the app permanently. Web purchases are processed by our payment provider acting as the merchant of record, and purchases made through the Google Play Store or Apple App Store are processed by those stores. Pro is tied to your device's anonymous purchase identifier — no account is created. If you uninstall and reinstall the app or switch devices, store purchases restore automatically through the store; web purchases can be restored by contacting us at the email below."
+            },
+            {
+                "title": "Refunds",
+                "content": "Refunds for purchases made through the Google Play Store or Apple App Store follow the policies of those stores. Web purchases are handled by our payment provider under its own refund policy. If something went wrong with a purchase, email us first — we would rather fix it than argue about it."
+            },
+            {
+                "title": "No Warranty",
+                "content": "The app is provided 'as is' and 'as available', without warranties of any kind, express or implied. We do not warrant that the content is complete, accurate, or up to date, or that the app will be uninterrupted or error-free."
+            },
+            {
+                "title": "Limitation of Liability",
+                "content": "To the maximum extent permitted by law, TEKIBO shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the app, including any outcome related to the use of herbal remedies or reliance on the app's content."
+            },
+            {
+                "title": "Changes to These Terms",
+                "content": "We may update these terms from time to time. Updates will be posted in this repository with a revised Last Updated date. Continued use of the app after changes constitutes acceptance of the updated terms."
+            }
+        ],
+        "disclaimer": "By using Herbs & Cures you agree to these terms. Questions: tekibohelp@gmail.com"
+    }
+}
