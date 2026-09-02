@@ -11,6 +11,10 @@
                 "content": "All reference content ships inside the app bundle. The only data the app creates is stored locally on your device: the cures you save are kept in an on-device database, and your preferences (such as your ad-free status) are kept in local storage. This data never leaves your device, and uninstalling the app deletes it."
             },
             {
+                "title": "Purchase Verification Identifier",
+                "content": "Pro purchases are licensed to your device. To make an ad-free purchase survive reinstalling the app on the same device, the app derives a random-looking identifier from your device's Android ID, hashes it, and sends only the hash to RevenueCat as an anonymous purchase identity. The raw identifier never leaves your device, the hash cannot be reversed to identify you, and we use it solely to verify your purchase. It is not used for advertising or shared with advertisers."
+            },
+            {
                 "title": "Internet Dependency for Ads",
                 "content": "While the app's content is offline, it requires an internet connection to display Google AdMob advertisements. To deliver and measure ads, Google may collect device information, advertising identifiers, IP address, and approximate location derived from IP. This data is collected and processed by Google, subject to Google's Privacy Policy. Depending on your region, a consent message is shown before ads are served, letting you choose between personalised and non-personalised ads; where the option appears, you can review your choices anytime via Settings → Privacy options in the app. Users with an active ad-free status are not shown ads."
             },

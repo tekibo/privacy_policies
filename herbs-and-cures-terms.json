@@ -12,7 +12,7 @@
             },
             {
                 "title": "Pro Purchase",
-                "content": "Pro is a one-time purchase that removes all advertisements from the app permanently. Web purchases are processed by our payment provider acting as the merchant of record, and purchases made through the Google Play Store or Apple App Store are processed by those stores. Pro is tied to your device's anonymous purchase identifier — no account is created. If you uninstall and reinstall the app or switch devices, store purchases restore automatically through the store; web purchases can be restored by contacting us at the email below."
+                "content": "Pro is a one-time purchase that removes all advertisements from the app permanently. Web purchases are processed by our payment provider acting as the merchant of record, and purchases made through the Google Play Store (or the Apple App Store) are processed by those stores. Pro is licensed to the device you purchased it on: it stays active through reinstalls on the same device, and is applied automatically after payment. It does not transfer to a different device or Google account. We do not receive or store your payment details — payments are handled entirely by the payment provider. Your purchase status is verified through RevenueCat using an anonymous, hashed device identifier; its data practices are described in RevenueCat's Privacy Policy."
             },
             {
                 "title": "Refunds",
